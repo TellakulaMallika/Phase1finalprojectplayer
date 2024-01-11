@@ -1,0 +1,7 @@
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\bin\Debug\Phase1finalprojectplayer.exe.config
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\bin\Debug\Phase1finalprojectplayer.exe
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\bin\Debug\Phase1finalprojectplayer.pdb
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\obj\Debug\Phase1finalprojectplayer.csproj.AssemblyReference.cache
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\obj\Debug\Phase1finalprojectplayer.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\obj\Debug\Phase1finalprojectplayer.exe
+C:\Users\sss\source\repos\Phase1finalprojectplayer\Phase1finalprojectplayer\obj\Debug\Phase1finalprojectplayer.pdb
